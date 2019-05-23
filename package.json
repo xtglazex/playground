@@ -1,0 +1,17 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "this is where your mom hangs out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yourmom"
+  ],
+  "author": "yourdad",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
